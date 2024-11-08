@@ -8,7 +8,7 @@ Full-Stack Software Engineer
 
 # Languages
 
-- JavaScript, TypeScript (React.js, Node.js)
+- JavaScript, TypeScript (React, Node.js)
 - Python
 - HTML and CSS (Tailwind)
 - Java
