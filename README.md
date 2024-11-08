@@ -14,7 +14,7 @@ Full-Stack Software Engineer
 - Java
 - PostgreSQL
 
-<img align="left" with="45%" src="https://github-readme-stats.vercel.app/api?username=ptoshiok&show_icons=true&theme=tokyonight" />
+<!---<img align="left" with="45%" src="https://github-readme-stats.vercel.app/api?username=ptoshiok&show_icons=true&theme=tokyonight" /> --->
 
 <img align="left" with="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoshiok&layout=compact&theme=tokyonight" />
 
