@@ -1,18 +1,18 @@
 # Hi there! I'm Paulo Kitayama
 
-Full-Stack Software Engineer
+Backend Software Engineer
 
 # About me
 - Bachelor's degree in Applied and Computational Mathematics 💻
-- 1 year experience, mainly in Next.js and Nest.js (React + Node.js), FastAPI (Python)
+- Insurance Tech, Fintech
+- Golang, fx, Glue, Fusion.js, Next.js and Nest.js (React + Node.js), FastAPI (Python)
 
 # Languages
 
+- Golang
 - JavaScript, TypeScript (React, Node.js)
 - Python
-- HTML and CSS (Tailwind)
 - Java
-- PostgreSQL
 
 <!---<img align="left" with="45%" src="https://github-readme-stats.vercel.app/api?username=ptoshiok&show_icons=true&theme=tokyonight" /> --->
 
