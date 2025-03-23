@@ -16,7 +16,7 @@ Backend Software Engineer
 
 <!---<img align="left" with="45%" src="https://github-readme-stats.vercel.app/api?username=ptoshiok&show_icons=true&theme=tokyonight" /> --->
 
-<img align="left" with="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoshiok&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+<!---<img align="left" with="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoshiok&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 
 <br clear="left"/>
 <br/>
@@ -25,7 +25,7 @@ Backend Software Engineer
 
 <a href="https://www.linkedin.com/in/paulo-kitayama/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a> --->
 
 <!---- 👋 Hi, I’m @ptoshiok
 - 👀 I’m interested in ...
